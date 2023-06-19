@@ -55,7 +55,7 @@
         "@storybook/addons": "7.0.0-rc.3",
         "@storybook/blocks": "7.0.0-rc.3",
         "@storybook/react": "7.0.0-rc.3",
-        "@storybook/react-webpack5": "7.0.0-rc.3",
+        "@storybook/react-webpack5": "7.0.22",
         "@storybook/theming": "7.0.0-rc.3",
         "@types/dotenv-webpack": "^7.0.3",
         "@types/git-rev-sync": "^2.0.0",
